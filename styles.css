@@ -408,7 +408,7 @@ animation-delay: 1s;
     color: #184D47;
 }
 
-@media (max-width: 980px)
+@media (max-width: 1080px)
 {
   
     #title ,#live_stats{
